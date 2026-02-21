@@ -200,9 +200,33 @@ bash Scripts/limpar-sessoes.sh
 2. Verifique se as portas estão abertas no firewall
 3. Use o [IP Changer](https://github.com/rodalb/Clientes-LC) para configurar o cliente
 
-## 🔗 Links Relacionados
+## 🔗 Repositórios Relacionados
 
-- **Cliente Windows:** [Clientes-LC](https://github.com/rodalb/Clientes-LC)
+### 📦 Projeto Last Chaos Completo
+
+Este repositório faz parte de um conjunto de 3 repositórios:
+
+1. **🎮 [Servers-LC](https://github.com/rodalb/Servers-LC)** (você está aqui)
+   - Servidores compilados e prontos para usar
+   - Scripts de instalação automatizados
+   - 201 MB de downloads
+
+2. **💻 [Clientes-LC](https://github.com/rodalb/Clientes-LC)**
+   - Executáveis do cliente Windows
+   - Ferramentas (IP Changer, Multicli)
+   - 13 MB de downloads
+
+3. **📝 [LC-Sources](https://github.com/rodalb/LC-Sources)**
+   - Código fonte completo C++
+   - Cliente e Servidor Episode 4 & 7
+   - 5.8 GB de downloads
+
+### 🗺️ Guia de Navegação
+
+Não sabe qual repositório usar? Veja o [Guia de Navegação Completo](https://github.com/rodalb/Servers-LC/blob/main/GUIA_NAVEGACAO.md)
+
+### 🔗 Links Externos
+
 - **Código Fonte Original:** [openlastchaos](https://github.com/openlastchaos)
 - **Desenvolvedor Original:** [tx00100xt](https://github.com/tx00100xt)
 
