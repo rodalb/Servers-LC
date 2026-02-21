@@ -1,0 +1,6 @@
+*.log
+*.sql
+*.tar.gz
+*.zip
+Server.x64/
+!Server.x64/DOWNLOAD.md
